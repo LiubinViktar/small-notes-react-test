@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Liubin Viktar"      
+    }    
+  ],
+  "notes": [
+    {
+      "note": "My first note",
+      "important": "true",
+      "id": "asdfha11"
+    },
+    {
+      "note": "Learning React",
+      "important": "false",
+      "id": "gfglj445"
+    },
+    {
+      "note": "Learning fetch",
+      "important": "false",
+      "id": "cblt54sdf"
+    }
+  ]
+}
